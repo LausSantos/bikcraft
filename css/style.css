@@ -1,11 +1,19 @@
 @import "/css/global/global.css";
-@import "/css/global/header.css";
 @import "/css/ultilidades.css/tipografia.css";
 @import "/css/ultilidades.css/cores.css";
+
+/*global*/
+@import "/css/global/header.css";
+@import "/css/global/footer.css";
 
 /*home*/
 @import "/css/home/introducao.css";
 @import "/css/home/tecnologia.css";
+@import "/css/home/parceiros.css";
+@import "/css/home/depoimento.css";
+
+/*seguros*/
+@import "/css/seguros/seguros.css";
 
 /*ultilidades*/
 @import "/css/ultilidades.css/componentes.css";

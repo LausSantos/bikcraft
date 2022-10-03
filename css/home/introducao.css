@@ -36,10 +36,6 @@
   margin-bottom: 20px;
 }
 
-.botao:hover {
-  background: linear-gradient(#ffb60d, #e59317);
-}
-
 @media (max-width: 800px) {
   .introducao-bg {
     background-color: var(--cor-12);
