@@ -14,9 +14,19 @@
 
 /*seguros*/
 @import "/css/seguros/seguros.css";
+@import "/css/seguros/vantagens.css";
+@import "/css/seguros/perguntas.css";
+
+/* termos */
+@import "/css/termos/termos.css";
 
 /*ultilidades*/
 @import "/css/ultilidades.css/componentes.css";
 
 /*bicicletas*/
 @import "/css/Bicicletas/bicicletas-lista.css";
+@import "/css/Bicicletas/bicicletas.css";
+
+/*bicicletas 02*/
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
